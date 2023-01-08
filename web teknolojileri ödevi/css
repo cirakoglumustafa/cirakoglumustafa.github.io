@@ -1,0 +1,31 @@
+.resimSlider{
+    height: 600px;
+}
+
+body{
+    padding-top: 50px;
+    font-family: 'Raleway' , sans-serif;
+}
+
+.tarih{
+    background-color: beige;
+}
+
+.cografya{
+    background-color: beige;
+}
+
+.gezilecek{
+
+    background-color: beige;
+}
+
+
+.imageSlider{
+    height: 300px;
+}
+
+.gezilecekCard>img:hover{
+    opacity:0.7;
+}
+
